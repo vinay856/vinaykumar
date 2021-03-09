@@ -1,0 +1,334 @@
+{
+    "0d5748d1-c0de-a8f6-e69c-3f6a2b41a60d": {
+        "paletteKey": "FlexLayoutCol",
+        "designerReference": [
+            {
+                "_key": "componentLabel",
+                "_value": "Column",
+                "_type": "kv",
+                "_attrDef": "p",
+                "_useAsLabel": true
+            },
+            {
+                "_key": "style",
+                "_value": "",
+                "_type": "kv",
+                "_attrDef": "p"
+            },
+            {
+                "_key": "class",
+                "_value": "",
+                "_type": "dav",
+                "_attrDef": "p"
+            },
+            {
+                "_key": "fxFlex",
+                "_value": "",
+                "_type": "kv",
+                "_attrDef": "p"
+            },
+            {
+                "_key": "fxLayoutGap",
+                "_value": "",
+                "_type": "kv",
+                "_attrDef": "p"
+            },
+            {
+                "_key": "wrap",
+                "_value": "wrap",
+                "_type": "a",
+                "_attrDef": "p"
+            },
+            {
+                "_key": "layoutAlign",
+                "_value": "start",
+                "_type": "a",
+                "_attrDef": "p"
+            },
+            {
+                "_key": "pLayoutAlign",
+                "_value": "stretch",
+                "_type": "a",
+                "_attrDef": "p"
+            },
+            {
+                "_key": "[fxShow]",
+                "_value": "true",
+                "_type": "kv",
+                "_attrDef": "p"
+            },
+            {
+                "_key": "[fxHide]",
+                "_value": "false",
+                "_type": "kv",
+                "_attrDef": "p"
+            }
+        ],
+        "c9df4311-a9b3-9d3a-0797-25d083a01730": {
+            "paletteKey": "ng-button-toggle-group",
+            "parentEditorKey": "0d5748d1-c0de-a8f6-e69c-3f6a2b41a60d",
+            "isAdvancedComponent": true,
+            "designerReference": [
+                {
+                    "_key": "componentLabel",
+                    "_value": "Button Toggle Group",
+                    "_type": "kv",
+                    "_attrDef": "p",
+                    "_useAsLabel": true
+                },
+                {
+                    "_key": "style",
+                    "_value": "",
+                    "_type": "kv",
+                    "_attrDef": "p"
+                },
+                {
+                    "_key": "class",
+                    "_value": "",
+                    "_type": "dav",
+                    "_attrDef": "p"
+                },
+                {
+                    "_key": "[name]",
+                    "_value": "",
+                    "_type": "kv",
+                    "_attrDef": "p"
+                },
+                {
+                    "_key": "[value]",
+                    "_value": "",
+                    "_type": "kv",
+                    "_attrDef": "p"
+                },
+                {
+                    "_key": "[disabled]",
+                    "_value": "",
+                    "_type": "kv",
+                    "_attrDef": "p"
+                },
+                {
+                    "_key": "[multiple]",
+                    "_value": "",
+                    "_type": "kv",
+                    "_attrDef": "p"
+                },
+                {
+                    "_key": "[vertical]",
+                    "_value": "",
+                    "_type": "kv",
+                    "_attrDef": "p"
+                },
+                {
+                    "_key": "(change)",
+                    "_value": "",
+                    "_type": "kv",
+                    "_attrDef": "p"
+                },
+                {
+                    "_key": "[buttonToggleAppearance]",
+                    "_value": "'standard'",
+                    "_type": "a",
+                    "_attrDef": "p"
+                },
+                {
+                    "_key": "[(ngModel)]",
+                    "_value": "",
+                    "_type": "kv",
+                    "_attrDef": "p"
+                }
+            ],
+            "ba3ef3ce-5ee1-8814-3241-6eddfebd7da5": {
+                "paletteKey": "ng-button-toggle",
+                "parentEditorKey": "c9df4311-a9b3-9d3a-0797-25d083a01730",
+                "isAdvancedChildComponent": true,
+                "isCommented": "true",
+                "designerReference": [
+                    {
+                        "_key": "style",
+                        "_value": "",
+                        "_type": "kv",
+                        "_attrDef": "p"
+                    },
+                    {
+                        "_key": "class",
+                        "_value": "",
+                        "_type": "dav",
+                        "_attrDef": "p"
+                    },
+                    {
+                        "_key": "ButtonToggleName",
+                        "_value": "Enter name",
+                        "_type": "a",
+                        "_attrDef": "p",
+                        "_useAsLabel": true
+                    },
+                    {
+                        "_key": "[name]",
+                        "_value": "",
+                        "_type": "kv",
+                        "_attrDef": "p"
+                    },
+                    {
+                        "_key": "[id]",
+                        "_value": "",
+                        "_type": "kv",
+                        "_attrDef": "p"
+                    },
+                    {
+                        "_key": "[checked]",
+                        "_value": "",
+                        "_type": "kv",
+                        "_attrDef": "p"
+                    },
+                    {
+                        "_key": "[value]",
+                        "_value": "",
+                        "_type": "kv",
+                        "_attrDef": "p"
+                    },
+                    {
+                        "_key": "[disableRipple]",
+                        "_value": "",
+                        "_type": "kv",
+                        "_attrDef": "p"
+                    },
+                    {
+                        "_key": "[disabled]",
+                        "_value": "",
+                        "_type": "kv",
+                        "_attrDef": "p"
+                    },
+                    {
+                        "_key": "(change)",
+                        "_value": "",
+                        "_type": "kv",
+                        "_attrDef": "p"
+                    },
+                    {
+                        "_key": "*ngFor",
+                        "_value": "",
+                        "_type": "kv",
+                        "_attrDef": "p"
+                    },
+                    {
+                        "_key": "showIconBeforeLabel",
+                        "_value": "",
+                        "_type": "dav",
+                        "_attrDef": "p",
+                        "_complexity": "advanced"
+                    },
+                    {
+                        "_key": "IconBeforeLabel",
+                        "_value": "home",
+                        "_type": "a",
+                        "_attrDef": "p",
+                        "_complexity": "advanced"
+                    },
+                    {
+                        "_key": "IconBeforeLabelClass",
+                        "_value": "",
+                        "_type": "a",
+                        "_attrDef": "p",
+                        "_complexity": "advanced"
+                    },
+                    {
+                        "_key": "IconBeforeLabelStyle",
+                        "_value": "",
+                        "_type": "a",
+                        "_attrDef": "p",
+                        "_complexity": "advanced"
+                    },
+                    {
+                        "_key": "showIconAfterLabel",
+                        "_value": "",
+                        "_type": "dav",
+                        "_attrDef": "p",
+                        "_complexity": "advanced"
+                    },
+                    {
+                        "_key": "IconAfterLabel",
+                        "_value": "home",
+                        "_type": "a",
+                        "_attrDef": "p",
+                        "_complexity": "advanced"
+                    },
+                    {
+                        "_key": "IconAfterLabelClass",
+                        "_value": "",
+                        "_type": "a",
+                        "_attrDef": "p",
+                        "_complexity": "advanced"
+                    },
+                    {
+                        "_key": "IconAfterLabelStyle",
+                        "_value": "",
+                        "_type": "a",
+                        "_attrDef": "p",
+                        "_complexity": "advanced"
+                    }
+                ]
+            }
+        },
+        "e16e86fd-f3d8-7314-13aa-6376a53a6a14": {
+            "paletteKey": "NG-RaisedButton",
+            "parentEditorKey": "0d5748d1-c0de-a8f6-e69c-3f6a2b41a60d",
+            "designerReference": [
+                {
+                    "_key": "style",
+                    "_value": "",
+                    "_type": "kv",
+                    "_attrDef": "p"
+                },
+                {
+                    "_key": "class",
+                    "_value": "",
+                    "_type": "dav",
+                    "_attrDef": "p"
+                },
+                {
+                    "_key": "buttonname",
+                    "_value": "submit",
+                    "_type": "a",
+                    "_attrDef": "p",
+                    "_useAsLabel": true
+                },
+                {
+                    "_key": "color",
+                    "_value": "",
+                    "_type": "kv",
+                    "_attrDef": "p"
+                },
+                {
+                    "_key": "(click)",
+                    "_value": "",
+                    "_type": "kv",
+                    "_attrDef": "p"
+                },
+                {
+                    "_key": "[disabled]",
+                    "_value": "",
+                    "_type": "kv",
+                    "_attrDef": "p"
+                },
+                {
+                    "_key": "[disableRipple]",
+                    "_value": "",
+                    "_type": "kv",
+                    "_attrDef": "p"
+                },
+                {
+                    "_key": "type",
+                    "_value": "",
+                    "_type": "kv",
+                    "_attrDef": "p"
+                },
+                {
+                    "_key": "routerLink",
+                    "_value": "",
+                    "_type": "kv",
+                    "_attrDef": "p"
+                }
+            ]
+        }
+    }
+}
